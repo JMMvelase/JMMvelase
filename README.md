@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://www.classcentral.com/report/tag/free-certificates/
+
 <!--
 **JMMvelase/JMMvelase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
